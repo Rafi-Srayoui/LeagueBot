@@ -37,25 +37,25 @@ This project integrates **TensorFlow Hub**, **PyAutoGUI**, **PIL**, and **custom
 
 Class ID	Label
 
-1	Ally Caster
+1	    Ally Caster
+  
+2  	  Ally Melee
 
-2	Ally Melee
+3  	  Ally Cannon
 
-3	Ally Cannon
+4  	  Enemy Caster
 
-4	Enemy Caster
+5  	  Enemy Melee
 
-5	Enemy Melee
+6  	  Enemy Cannon
 
-6	Enemy Cannon
+7	    Ally Turret
 
-7	Ally Turret
+8	    Enemy Turret
 
-8	Enemy Turret
+9	    Enemy Inhibitor
 
-9	Enemy Inhibitor
-
-10	Ally Super
+10	  Ally Super
 
 
 
