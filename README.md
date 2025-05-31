@@ -33,7 +33,7 @@ This project integrates **TensorFlow Hub**, **PyAutoGUI**, **PIL**, and **custom
 - Uses hardcoded screen-scaling logic to make decisions portable across resolutions
 
 ---
-🎯 Object Classes
+## 🎯 Object Classes
 Class ID	Label
 1	Ally Caster
 2	Ally Melee
